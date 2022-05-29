@@ -1,0 +1,11 @@
+body{
+    font-family: frebuchet 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1,h2,H3,H4{
+    text-decoration: underline;color: black;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
